@@ -2,12 +2,20 @@ body {
   background-color: plum;
   text-align: center;
 }
+.body {
+  padding: 100px 50px;
+  background-color: white;
+  border-radius: 30px;
+}
 div.clr {
+  gap: 10px;
 }
 img {
   border-radius: 50%;
   width: 30px;
   justify-content: center;
+  border-color: blue;
+  border: 50%;
 }
 .center {
   display: block;
