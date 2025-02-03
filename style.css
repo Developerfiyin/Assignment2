@@ -3,9 +3,11 @@ body {
   text-align: center;
 }
 .body {
-  padding: 100px 50px;
+  padding: 20px;
   background-color: white;
   border-radius: 30px;
+  border-bottom: 5px solid yellow;
+  border-right: 5px solid yellow;
 }
 div.clr {
   gap: 10px;
@@ -14,8 +16,7 @@ img {
   border-radius: 50%;
   width: 30px;
   justify-content: center;
-  border-color: blue;
-  border: 50%;
+  border-right: 3px solid yellow;
 }
 .center {
   display: block;
@@ -26,6 +27,7 @@ img {
 button {
   color: white;
   background-color: purple;
-  border-radius: 5px;
+  border-radius: 4%;
+  gap: 50%;
   border: none;
 }
