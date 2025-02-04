@@ -6,7 +6,9 @@ body {
   padding: 20px;
   background-color: purple;
   border-radius: 30px;
-  border-bottom: 6px solid purple;
+  border-bottom: 4px solid yellow;
+  color: white;
+  text-decoration: none;
 }
 div.clr {
   line-height: 10px;
@@ -16,7 +18,7 @@ img {
   width: 30px;
   justify-content: center;
   background-color: purple;
-  line-break: 30%;
+  gap: 30%;
   color: purple;
 }
 .center {
