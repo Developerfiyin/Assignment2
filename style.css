@@ -1,6 +1,7 @@
 body {
   background-color: rgb(238, 93, 238);
   text-align: center;
+  justify-content: center;
 }
 .body {
   padding: 20px;
@@ -16,11 +17,10 @@ div.clr {
 img {
   border-radius: 50%;
   width: 30px;
-  justify-content: center;
   background-color: purple;
-
+  align-items: center;
+  justify-content: space-between;
   color: purple;
-  line-height: 4em;
 }
 .center {
   display: block;
