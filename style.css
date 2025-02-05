@@ -18,8 +18,9 @@ img {
   width: 30px;
   justify-content: center;
   background-color: purple;
-  gap: 30%;
+
   color: purple;
+  line-height: 4em;
 }
 .center {
   display: block;
@@ -37,4 +38,5 @@ button {
   border-radius: 8px;
   padding: 6px;
   border: none;
+  cursor: pointer;
 }
