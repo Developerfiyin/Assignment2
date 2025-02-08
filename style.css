@@ -19,10 +19,6 @@ div.clr {
 img {
   border-radius: 50%;
   width: 30px;
-  background-color: purple;
-  align-items: center;
-  justify-content: space-between;
-  color: purple;
 }
 div.close {
   background-color: purple;
